@@ -14,7 +14,8 @@ public class BeerExpert {
         } else {
             brands.add("Jail Pale Ale");
             brands.add("Gout Stout");
-            brands.add("FH");
+            brands.add("FH se agrego para probar la version");
+            brands.add("CH se agrego para probar la version");
         }
         return brands;
     }
