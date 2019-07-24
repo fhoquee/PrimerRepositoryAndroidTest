@@ -10,9 +10,11 @@ public class BeerExpert {
             brands.add("Jack Amber");
             brands.add("Red Moose");
             brands.add("Es un comentario adicional");
+
         } else {
             brands.add("Jail Pale Ale");
             brands.add("Gout Stout");
+            brands.add("FH");
         }
         return brands;
     }
