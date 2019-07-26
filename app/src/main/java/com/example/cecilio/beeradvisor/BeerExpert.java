@@ -17,6 +17,7 @@ public class BeerExpert {
             brands.add("FH se agrego para probar la version");
             brands.add("CH se agrego para probar la version");
             brands.add("HA se agrego para probar la version");
+            brands.add("TH se agrego para probar la version");
         }
         return brands;
     }
