@@ -16,6 +16,7 @@ public class BeerExpert {
             brands.add("Gout Stout");
             brands.add("FH se agrego para probar la version");
             brands.add("CH se agrego para probar la version");
+            brands.add("HA se agrego para probar la version");
         }
         return brands;
     }
